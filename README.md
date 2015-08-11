@@ -5,6 +5,8 @@ A multi-campus, connected course (plus MOOC) on numerical methods for differenti
 - Ian Hawke, Southampton University, UK
 - Carlos Jerez, Pontificia Universidad Catolica de Chile
 
+Leon Pinnock at work
+
 **Note:** David Ketcheson, from King Abdullah University of Science and Technology (KAUST), Saudi Arabia was going to be our fourth partner, but unfortunately the local course at KAUST got cancelled due to low enrollment.
 
 [**"Practical Numerical Methods with Python"**](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about) is an open, online course hosted on an independent installation of the [Open edX](http://code.edx.org) software platform for MOOCs.
